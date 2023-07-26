@@ -26,6 +26,10 @@ serverfiles/csgo/addons/*
 !serverfiles/csgo/addons/stripper/
 !serverfiles/csgo/addons/sourcemod/
 serverfiles/csgo/addons/sourcemod/*
+!serverfiles/csgo/addons/sourcemod/scripting/
+serverfiles/csgo/addons/sourcemod/scripting/*
+!serverfiles/csgo/addons/sourcemod/scripting/bumpmine.sp
+!serverfiles/csgo/addons/sourcemod/scripting/surftimer/
 !serverfiles/csgo/addons/sourcemod/data/
 serverfiles/csgo/addons/sourcemod/data/*
 !serverfiles/csgo/addons/sourcemod/configs/
