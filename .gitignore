@@ -1,0 +1,32 @@
+# Ignore everything
+/*
+!.gitignore
+
+# https://theapache64.github.io/git-do-not-ignore/
+# Replays
+# 	serverfiles/csgo/addons/sourcemod/data/replays/
+
+# sourcemod configs
+#	serverfiles/csgo/addons/sourcemod/configs/
+
+# stripper files
+#	serverfiles/csgo/addons/stripper/
+
+# server cfg
+#	serverfiles/csgo/cfg/
+
+
+!serverfiles/
+serverfiles/*
+!serverfiles/csgo/
+serverfiles/csgo/*
+!serverfiles/csgo/cfg/
+!serverfiles/csgo/addons/
+serverfiles/csgo/addons/*
+!serverfiles/csgo/addons/stripper/
+!serverfiles/csgo/addons/sourcemod/
+serverfiles/csgo/addons/sourcemod/*
+!serverfiles/csgo/addons/sourcemod/data/
+serverfiles/csgo/addons/sourcemod/data/*
+!serverfiles/csgo/addons/sourcemod/configs/
+!serverfiles/csgo/addons/sourcemod/data/replays/
