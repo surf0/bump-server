@@ -3,5 +3,6 @@
 # CSGO bump mine server
 CSGO Bump Mine Server Configs etc.
 
-> **⚠️ Warning**  
+> **Warning**
+> 
 > The maps are better played offline. This server implementation is buggy.
